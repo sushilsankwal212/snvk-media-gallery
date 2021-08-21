@@ -1,0 +1,81 @@
+.snv_post
+{
+  width: 100%;
+  text-align: center;
+  border: 2px solid black;
+}
+
+.snv_post option
+{
+  border: 1px solid #000000;
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+
+div.snv_gallery {
+  background: #ffff;
+  margin: 23px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+  height:308px;
+}
+
+.snv_gallery img
+{
+  width: 600px;
+  height: 400px;
+}
+.snv_gallery input
+{
+  width: 100%;
+  margin-top: 13px;
+  margin-bottom: 13px;
+}
+div.snv_gallery:hover {
+  border: 1px solid #777;
+}
+
+div.snv_gallery img,div.snv_gallery video {
+  width: 100%;
+  height: 121px;
+}
+
+div.snv_desc {
+  padding: 15px;
+  text-align: center;
+}
+
+
+.snv_mediaUpload
+{
+padding:15px;background: #1d2327;border:none;color:#ffffff;font-weight:700;text-decoration: none;
+}
+
+#snv_media_upload
+{
+   margin-top: 70px;
+   margin-bottom: 30px;
+   margin-left: 15px;
+}
+.snv_removeImage
+{
+padding:10px;background: #d10000;border:none;color:#ffffff;font-weight:700;text-decoration: none;
+}
+
+#sortable div
+{
+  cursor: move;
+}
+
+.snv_code
+{
+  background: #ffffff; 
+  box-shadow: 1px 6px 22px 1px grey;
+}  
+.snv_code code
+{
+  background: #ffffff;
+}
